@@ -76,4 +76,4 @@ The script successfully exploited the buffer overflow vulnerability, causing the
 
 Conclusion
 
-This challenge demonstrated the dangers of buffer overflow vulnerabilities and the importance of proper input validation and buffer management in C programs. By understanding how these vulnerabilities work and how to exploit them, we can write more secure code and better protect our systems from attackers.
+This challenge demonstrated the dangers of buffer overflow vulnerabilities and the importance of proper input validation and buffer management in C programs.
