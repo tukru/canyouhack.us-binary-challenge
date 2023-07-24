@@ -72,7 +72,8 @@ print(response)
 
 Result
 
-The script successfully exploited the buffer overflow vulnerability, causing the program to read the "flag.0" file and send the contents back over the network connection. The contents of the file were the flag for the CTF challenge: 2661b14c-f490-48d7-909e-d166f0fd8205.
+The script successfully exploited the buffer overflow vulnerability, causing the program to read the "flag.0" file and send the contents back over the network connection. The contents of the file were the flag for the CTF challenge: *REDACTED*.
+
 Conclusion
 
 This challenge demonstrated the dangers of buffer overflow vulnerabilities and the importance of proper input validation and buffer management in C programs. By understanding how these vulnerabilities work and how to exploit them, we can write more secure code and better protect our systems from attackers.
