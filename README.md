@@ -1,6 +1,10 @@
 Buffer Overflow Exploitation on a C Program
 Introduction
 
+![Banner Image](https://weplaywithfirehere.files.wordpress.com/2023/07/george.jpeg)
+
+
+
 This write-up details the process of exploiting a buffer overflow vulnerability in a C program as part of a Capture The Flag (CTF) challenge. The challenge involved manipulating the value of a variable by overflowing a buffer in the program.
 The Vulnerable Program
 
